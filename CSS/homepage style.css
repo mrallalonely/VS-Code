@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+} 
+body{
+    background-color: black;
+    background-image: url(/Images/PURPLE\ SERPENT\ STUDIOS\ LOGO\ V2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 1000px 1000px;
+} 
+p{
+    text-align: center;
+    font-size: x-large;
+}
+.seshbook{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    max-width: 150px;
+    max-height: 50px;
+    font-size: x-large;
+}
+.stupic{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}

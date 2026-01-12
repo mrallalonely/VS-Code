@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+} 
+body{
+    background-color: black;
+    background-image: url(/Images/PURPLE\ SERPENT\ STUDIOS\ LOGO\ V2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 1000px 1000px;
+} 
+h2{
+    text-align: center;
+    font-size: xx-large;
+}
+h3{
+    text-align: center;
+    font-size: larger;
+}
+h4{
+    text-align: center;
+    font-size: large;
+}
+.rec{
+    text-align: center;
+    font-size: x-large;
+}
+.mix{
+    text-align: center;
+    font-size: x-large;
+}
+.deal{
+    text-align: center;
+    font-size: x-large;
+}
+.qna{
+    text-align: center;
+    font-size: x-large;
+}

@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+} 
+body{
+    background-color: black;
+    background-image: url(/Images/PURPLE\ SERPENT\ STUDIOS\ LOGO\ V2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 1000px 1000px;
+}
+.address{
+    text-align: center;
+    font-size: larger;
+}
+pre{
+    text-align: center;
+    font-size: x-large;
+}
+.phone{
+    text-align: center;
+    font-size: larger;
+}
+.email{
+    text-align: center;
+    font-size: larger;
+}
+.micpic{
+    text-align: center;
+    font-size: larger;
+}
+.instaicon{
+    border: 2px solid rgb(3, 62, 255);
+    display: flex;
+    margin: auto;
+    max-width: 300px;
+    max-height: 0px;
+    color: rgb(221, 42, 123);
+}
+.youicon{
+    display: flex;
+    margin: auto;
+    max-width: 140px;
+    max-height: 0px;
+}
+.faceicon{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: auto;
+    max-width: 140px;
+    max-height: 0px;
+    color: rgb(24, 119, 242);
+}
+.twiticon{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: auto;
+    max-width: 300px;
+    max-height: 0px;
+}
