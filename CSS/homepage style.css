@@ -13,18 +13,17 @@ body{
 p{
     text-align: center;
     font-size: x-large;
+    color: white;
 }
 .seshbook{
-    display: flex;
-    flex-direction: row;
-    margin: auto;
-    max-width: 150px;
-    max-height: 50px;
+    text-align: center;
     font-size: x-large;
+    color: white;
 }
 .stupic{
     text-align: center;
 }
 h2{
     text-align: center;
+    color: white;
 }

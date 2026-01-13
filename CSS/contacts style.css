@@ -13,18 +13,22 @@ body{
 .address{
     text-align: center;
     font-size: larger;
+    color: white;
 }
 pre{
     text-align: center;
     font-size: x-large;
+    color: white;
 }
 .phone{
     text-align: center;
     font-size: larger;
+    color: white;
 }
 .email{
     text-align: center;
     font-size: larger;
+    color: white;
 }
 .micpic{
     text-align: center;
@@ -36,7 +40,6 @@ pre{
     margin: auto;
     max-width: 300px;
     max-height: 0px;
-    color: rgb(221, 42, 123);
 }
 .youicon{
     display: flex;
@@ -50,7 +53,6 @@ pre{
     margin: auto;
     max-width: 140px;
     max-height: 0px;
-    color: rgb(24, 119, 242);
 }
 .twiticon{
     display: flex;

@@ -13,28 +13,35 @@ body{
 h2{
     text-align: center;
     font-size: xx-large;
+    color: white;
 }
 h3{
     text-align: center;
     font-size: larger;
+    color: white;
 }
 h4{
     text-align: center;
     font-size: large;
+    color: white;
 }
 .rec{
     text-align: center;
     font-size: x-large;
+    color: white;
 }
 .mix{
     text-align: center;
     font-size: x-large;
+    color: white;
 }
 .deal{
     text-align: center;
     font-size: x-large;
+    color: white;
 }
 .qna{
     text-align: center;
     font-size: x-large;
+    color: white;
 }
