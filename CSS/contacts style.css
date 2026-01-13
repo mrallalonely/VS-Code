@@ -13,7 +13,6 @@ body{
 .address{
     text-align: center;
     font-size: larger;
-    color: white;
 }
 pre{
     text-align: center;
@@ -23,12 +22,10 @@ pre{
 .phone{
     text-align: center;
     font-size: larger;
-    color: white;
 }
 .email{
     text-align: center;
     font-size: larger;
-    color: white;
 }
 .micpic{
     text-align: center;
