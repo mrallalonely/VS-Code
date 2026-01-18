@@ -50,7 +50,7 @@ pre{
     max-width: 140px;
     max-height: 0px;
 }
-.twiticon{
+.treeicon{
     display: flex;
     flex-direction: row-reverse;
     margin: auto;
