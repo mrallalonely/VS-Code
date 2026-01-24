@@ -10,9 +10,6 @@ body{
     background-attachment: fixed;
     background-size: 1000px 1000px;
 }
-#box1{
-    background-color:blue;
-}
 p{
     text-align: center;
     font-size: x-large;
@@ -21,11 +18,6 @@ p{
 .seshbook{
     text-align: center;
     font-size: x-large;
-    border: 3px solid silver;
-    border-radius: 5px;
-    width: 150px;
-    height: 27px;
-    margin: auto;
 }
 .stupic{
     text-align: center;

@@ -10,9 +10,6 @@ body{
     background-attachment: fixed;
     background-size: 1000px 1000px;
 } 
-#box1{
-    background-color:blue;
-}
 h2{
     text-align: center;
     font-size: xx-large;
@@ -31,36 +28,16 @@ h4{
 .rec{
     text-align: center;
     font-size: x-large;
-    border: 3px solid silver;
-    border-radius: 5px;
-    width: 63px;
-    height: 27px;
-    margin: auto;
 }
 .mix{
     text-align: center;
     font-size: x-large;
-    border: 3px solid silver;
-    border-radius: 5px;
-    width: 36px;
-    height: 27px;
-    margin: auto;
 }
 .deal{
     text-align: center;
     font-size: x-large;
-    border: 3px solid silver;
-    border-radius: 5px;
-    width: 96px;
-    height: 27px;
-    margin: auto;
 }
 .qna{
     text-align: center;
     font-size: x-large;
-    border: 3px solid silver;
-    border-radius: 5px;
-    width: 105px;
-    height: 27px;
-    margin: auto;
 }

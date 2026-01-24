@@ -10,17 +10,9 @@ body{
     background-attachment: fixed;
     background-size: 1000px 1000px;
 }
-#box1{
-    background-color:blue;
-}
 .address{
     text-align: center;
     font-size: larger;
-    border: 3px solid silver;
-    border-radius: 5px;
-    width: 363px;
-    height: 21px;
-    margin: auto;
 }
 pre{
     text-align: center;
@@ -30,20 +22,10 @@ pre{
 .phone{
     text-align: center;
     font-size: larger;
-    border: 3px solid silver;
-    border-radius: 5px;
-    width: 166px;
-    height: 21px;
-    margin: auto;
 }
 .email{
     text-align: center;
     font-size: larger;
-    border: 3px solid silver;
-    border-radius: 5px;
-    width: 264px;
-    height: 21px;
-    margin: auto;
 }
 .micpic{
     text-align: center;
